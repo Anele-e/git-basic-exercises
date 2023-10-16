@@ -1,1 +1,1 @@
-Just opened text editor.this is new text
+list of integers = [0,1,2,3,4,5,6,7,8]
