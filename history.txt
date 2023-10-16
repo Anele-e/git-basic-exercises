@@ -1,0 +1,283 @@
+    1  git config --list
+    2  cd /c/Users/my_project
+    3  git init
+    4  cd /c/Users/Anele/project_1 git init
+    5  cd /c/Users/Anele/project_1
+    6  git init
+    7  git status
+    8  echo 'project_1' > README
+    9  git status
+   10  rmdir project_1
+   11  rmdir
+   12  rm rf my_project
+   13  cd my_project
+   14  cd project_1
+   15  pwd
+   16  ls
+   17  rmdir project_1
+   18  rmdir todeleted
+   19  ls
+   20  ls
+   21  rmdir New folder
+   22  ls
+   23  rmdir DELETEME
+   24  rm --rf DELETEME
+   25  rm rf DELETEME
+   26  rm --help
+   27  rm -r DELETEME
+   28  ls
+   29  cd willdelete
+   30  cd /c/Users/Anele/Documents/willdelete
+   31  git init
+   32  git status
+   33  git add --all
+   34  git status
+   35  git commit -m 'first commit test'
+   36  rm rf no-help-delete
+   37  rm -r 'no-help-delete'
+   38  git status
+   39  ls
+   40  cd ..
+   41  cd ..
+   42  cd '/c/Users/Anele/Level 1 Coding Challenge'
+   43  git init
+   44  git status
+   45  git add task1.py
+   46  git status
+   47  cd ..
+   48  git@github.com:Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+   49  git clone git@github.com:Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+   50  git clone git@github.com:Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+   51  git clone https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python
+   52  git clone https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python
+   53  git clone https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python
+   54  cd https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python
+   55  cd /c/Users/Anele/Anele-Dindili-219-level-1-programming-katas-python
+   56  git checkout main
+   57  git pull
+   58  git pull
+   59  git checkout -b task/1
+   60  git checkout main
+   61  git add.
+   62  git add .
+   63  git status
+   64  git checkout task/1
+   65  git status
+   66  vim task1.py
+   67  cd /c/Users/Anele/Anele-Dindili-219-level-1-programming-katas-python
+   68  git status
+   69  git restore --staged
+   70  git status
+   71  git add task1.py
+   72  git commit -m 'Initial task1 commit'
+   73  git rm task2.py
+   74  git task3.py
+   75  git rm task3.py
+   76  git rm task4.py
+   77  git rm task5.py
+   78  git rm task6.py
+   79  git rm task7.py
+   80  git status
+   81  git push
+   82  git checkout main
+   83  git status
+   84  git checkout task/1
+   85  ls
+   86  git push
+   87  git push --set-upstream origin task/1
+   88  git branch -a
+   89  git pull
+   90  git checkout main
+   91  git pull
+   92  git checkout -b task/2
+   93  git add task2.py
+   94  git status
+   95  git commit -m 'Initial task2 commit'
+   96  git push
+   97  git push --set-upstream origin task/2
+   98  git pull task/2 git@github.com:Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+   99  git status
+  100  git pull task/2
+  101  git pull
+  102  git pull task/2 Anele-Dindili-219-level-1-programming-katas-python
+  103  git pull Anele-Dindili-219-level-1-programming-katas-python
+  104  git checkout main
+  105  git status
+  106  cd /c/Users/Anele/Anele-Dindili-219-level-1-programming-katas-python
+  107  git status
+  108  git push
+  109  git push --set-upstream origin task/3
+  110  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  111  git checkout main
+  112  git pull
+  113  git checkout -b task/4
+  114  git add task4.py
+  115  git status
+  116  git commit -m 'task4 commit'
+  117  git push origin task/4
+  118  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  119  git pull
+  120  git pull origin task/4
+  121  git checkout main
+  122  git pull
+  123  git checkout -b task/5
+  124  git add task5.py
+  125  git commit -m 'task5 commit'
+  126  git push origin task/5
+  127  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  128  git checkout main
+  129  git commit -m 'second commit of task5 could not checkout to main'
+  130  git push origin task/5
+  131  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  132  git checkout main
+  133  git status
+  134  git checkout main
+  135  git branch main
+  136  git add task5.py
+  137  git status
+  138  git checkout main
+  139  git stash
+  140  git checkout main
+  141  git pull
+  142  git checkout -b task/6
+  143  git add task6.py
+  144  git status
+  145  git status
+  146  git commit -m 'task6 commit'
+  147  git push origin task/6
+  148  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  149  git checkout main
+  150  git stash
+  151  git stash pop
+  152  git add task6.py
+  153  git status
+  154  git commit -m 'Second Commmit local changes of task not in remote repo'
+  155  git push origin task/6
+  156  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  157  git checkout main
+  158  git pull
+  159  git checkout -b task/7
+  160  git add task7.py
+  161  git status
+  162  git commit -m 'Task7 Commmit'
+  163  git push origin task/7
+  164  git https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python/pull/new/task/7
+  165  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python/pull/new/task/7
+  166  git pull https://github.com/Umuzi-org/Anele-Dindili-219-level-1-programming-katas-python.git
+  167  git checkout main
+  168  git pull
+  169  ls -a
+  170  cd git-basic-exercises
+  171  git status
+  172  git log
+  173  git branch milkshake-flavours
+  174  git branch
+  175  git checkout milkshake-flavours
+  176  git branch
+  177  nano milkshakes.md
+  178  git status
+  179  git add milkshakes.md
+  180  git commit -m 'added initial flavours'
+  181  git log
+  182  git checkout main
+  183  git status
+  184  git log
+  185  ls -a
+  186  ls
+  187  git checkout milkshake-flavours
+  188  cat milkshakes.md
+  189  git checkout main
+  190  git branch history
+  191  git log
+  192  git branch
+  193  history > history.txt
+  194  git commit -m 'added history'
+  195  git log
+  196  git commit -m 'added history'
+  197  git checkout milkshake-flaviours
+  198  git checkout milkshake-flavours
+  199  git log
+  200  nano README.md
+  201  git commit -m 'random readme changes'
+  202  git checkout history
+  203  cat README.md
+  204  rm README.md
+  205  echo 'booya' > README.md
+  206  git commit -m 'rewrote readme'
+  207  git checkout main
+  208  ls
+  209  git log
+  210  ls
+  211  rm history.txt
+  212  git log
+  213  git checkout history
+  214  git log
+  215  git branch
+  216  history > history.txt
+  217  git commit -m 'added history'
+  218  git log
+  219  git checkout main
+  220  git log
+  221  git checkout milkshake-flavours
+  222  ls
+  223  rm history.txt
+  224  ls
+  225  git log
+  226  cat README.md
+  227  git checkout history
+  228  ls
+  229  history > history.txt
+  230  ls
+  231  git commit -m 'added history'
+  232  git log
+  233  rm -r git-basic-exercises
+  234  cd ..
+  235  rm -r git-basic-exercises
+  236  mkdir git-basic-exercises
+  237  cd git-basic-exercises
+  238  git init
+  239  ls
+  240  ls -a
+  241  touch README.md
+  242  git log
+  243  git add README.md
+  244  git commit -m 'initial commmit'
+  245  git log
+  246  nano README.md
+  247  cat README.md
+  248  git status
+  249  git commit -m 'second commit'
+  250  nano README.md
+  251  git commit -m 'third commit'
+  252  git log
+  253  nano README.md
+  254  git commit -m 'second commit'
+  255  git log
+  256  git add README.md
+  257  git commit -m 'second commit'
+  258  git log
+  259  nano README.md
+  260  git add README.md
+  261  git commit -m 'third commit'
+  262  git log
+  263  git checkout 41c42fc2fd26c5d748f54bad16a89c2cb27d79b9
+  264  cat README.md
+  265  git checkout main
+  266  cat README.md
+  267  git branch milkshake-flavours
+  268  git branch
+  269  git checkout milkshake-flavours
+  270  nano milkshakes.md
+  271  git status
+  272  git add milkshakes.md
+  273  git status
+  274  git commit -m 'added initial flavours'
+  275  git log
+  276  git checkout main
+  277  git status
+  278  git log
+  279  git branch history
+  280  git checkout history
+  281  git log
+  282  git branch
+  283  history > history.txt
